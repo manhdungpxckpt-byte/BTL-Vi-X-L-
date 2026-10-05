@@ -47,6 +47,8 @@ Bài tập lớn môn **Kỹ thuật vi xử lý**, Học viện Công nghệ B�
 3. Virtual Terminal 115200 baud → chạy ▶, chỉnh DHT11 bằng nút ▲/▼, bấm PB12 để ghi âm, PB13 để phát.
 4. Dừng mô phỏng, mở `sdcard.img` bằng **7-Zip** để lấy `DATA.CSV` và `REC01.WAV`.
 
+Bản chẩn đoán: `hex/btl_ktvxl_PROTEUS_DEBUG.hex` (tương đương debug15) chạy giống bản Proteus nhưng in thêm các dòng `[dbg]` và `[t=..s]` lên Terminal, dùng khi cần dò lỗi.
+
 Mạch thật: nạp `hex/btl_ktvxl_MACH_THAT.hex` bằng ST-Link (8 kHz, 5 giây ghi âm). Các điểm phải sửa riêng cho Proteus xem trong [`GHI_CHU_KY_THUAT.md`](Bai1_STM32_SD_DHT11_Audio/GHI_CHU_KY_THUAT.md).
 
 ### Biên dịch lại
