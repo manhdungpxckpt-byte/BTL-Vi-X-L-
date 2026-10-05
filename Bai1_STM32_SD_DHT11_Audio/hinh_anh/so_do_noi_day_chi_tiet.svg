@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1060" viewBox="0 0 1320 1060" font-family="Arial">
+<defs><pattern id="g" width="12" height="12" patternUnits="userSpaceOnUse"><path d="M12 0H0V12" fill="none" stroke="#dcd9c8" stroke-width="0.6"/></pattern></defs>
+<rect width="1320" height="1060" fill="#f4f2e6"/><rect width="1320" height="1060" fill="url(#g)"/>
+<text x="20" y="34" font-size="24" font-weight="bold" fill="#0b4f9c">SƠ ĐỒ NỐI DÂY PROTEUS – BTL KTVXL Bài 1</text>
+<text x="20" y="58" font-size="14" fill="#444">Mỗi màu = 1 nhóm · số trong vòng tròn = thứ tự dây · ● = chỗ nối cố ý · dây bắt chéo không có chấm = KHÔNG nối</text>
+<rect x="700" y="130" width="230" height="828" fill="#d8d3b8" stroke="#8b1a1a" stroke-width="3"/>
+<text x="815.0" y="122" font-size="16" fill="#8b1a1a" text-anchor="middle" font-weight="bold">U1 – STM32F103C8</text>
+<line x1="670" y1="160" x2="700" y2="160" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="165" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA0-WKUP</text>
+<line x1="670" y1="184" x2="700" y2="184" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="189" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA1</text>
+<line x1="670" y1="208" x2="700" y2="208" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="213" font-size="13" fill="#000" text-anchor="start">PA2</text>
+<line x1="670" y1="232" x2="700" y2="232" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="237" font-size="13" fill="#000" text-anchor="start">PA3</text>
+<line x1="670" y1="256" x2="700" y2="256" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="261" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA4</text>
+<line x1="670" y1="280" x2="700" y2="280" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="285" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA5</text>
+<line x1="670" y1="304" x2="700" y2="304" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="309" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA6</text>
+<line x1="670" y1="328" x2="700" y2="328" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="333" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA7</text>
+<line x1="670" y1="352" x2="700" y2="352" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="357" font-size="13" fill="#000" text-anchor="start">PA8</text>
+<line x1="670" y1="376" x2="700" y2="376" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="381" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA9</text>
+<line x1="670" y1="400" x2="700" y2="400" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="405" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PA10</text>
+<line x1="670" y1="424" x2="700" y2="424" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="429" font-size="13" fill="#000" text-anchor="start">PA11</text>
+<line x1="670" y1="448" x2="700" y2="448" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="453" font-size="13" fill="#000" text-anchor="start">PA12</text>
+<line x1="670" y1="472" x2="700" y2="472" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="477" font-size="13" fill="#000" text-anchor="start">PA13</text>
+<line x1="670" y1="496" x2="700" y2="496" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="501" font-size="13" fill="#000" text-anchor="start">PA14</text>
+<line x1="670" y1="520" x2="700" y2="520" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="525" font-size="13" fill="#000" text-anchor="start">PA15</text>
+<line x1="670" y1="568" x2="700" y2="568" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="573" font-size="13" fill="#000" text-anchor="start">PB0</text>
+<line x1="670" y1="592" x2="700" y2="592" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="597" font-size="13" fill="#000" text-anchor="start">PB1</text>
+<line x1="670" y1="616" x2="700" y2="616" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="621" font-size="13" fill="#000" text-anchor="start">PB2</text>
+<line x1="670" y1="640" x2="700" y2="640" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="645" font-size="13" fill="#000" text-anchor="start">PB3</text>
+<line x1="670" y1="664" x2="700" y2="664" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="669" font-size="13" fill="#000" text-anchor="start">PB4</text>
+<line x1="670" y1="688" x2="700" y2="688" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="693" font-size="13" fill="#000" text-anchor="start">PB5</text>
+<line x1="670" y1="712" x2="700" y2="712" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="717" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PB6</text>
+<line x1="670" y1="736" x2="700" y2="736" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="741" font-size="13" fill="#000" text-anchor="start">PB7</text>
+<line x1="670" y1="760" x2="700" y2="760" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="765" font-size="13" fill="#000" text-anchor="start">PB8</text>
+<line x1="670" y1="784" x2="700" y2="784" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="789" font-size="13" fill="#000" text-anchor="start">PB9</text>
+<line x1="670" y1="808" x2="700" y2="808" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="813" font-size="13" fill="#000" text-anchor="start">PB10</text>
+<line x1="670" y1="832" x2="700" y2="832" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="837" font-size="13" fill="#000" text-anchor="start">PB11</text>
+<line x1="670" y1="856" x2="700" y2="856" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="861" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PB12</text>
+<line x1="670" y1="880" x2="700" y2="880" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="885" font-size="13" fill="#000" text-anchor="start" font-weight="bold">PB13</text>
+<line x1="670" y1="904" x2="700" y2="904" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="909" font-size="13" fill="#000" text-anchor="start">PB14</text>
+<line x1="670" y1="928" x2="700" y2="928" stroke="#8b1a1a" stroke-width="2"/>
+<text x="706" y="933" font-size="13" fill="#000" text-anchor="start">PB15</text>
+<line x1="930" y1="520" x2="960" y2="520" stroke="#8b1a1a" stroke-width="2"/>
+<text x="924" y="525" font-size="13" fill="#000" text-anchor="end" font-weight="bold">PC13_RTC</text>
+<line x1="930" y1="640" x2="960" y2="640" stroke="#8b1a1a" stroke-width="2"/>
+<text x="924" y="645" font-size="13" fill="#000" text-anchor="end" font-weight="bold">VDDA</text>
+<line x1="930" y1="664" x2="960" y2="664" stroke="#8b1a1a" stroke-width="2"/>
+<text x="924" y="669" font-size="13" fill="#000" text-anchor="end" font-weight="bold">VSSA</text>
+<line x1="930" y1="712" x2="960" y2="712" stroke="#8b1a1a" stroke-width="2"/>
+<text x="924" y="717" font-size="13" fill="#000" text-anchor="end" font-weight="bold">VBAT</text>
+<line x1="930" y1="928" x2="960" y2="928" stroke="#8b1a1a" stroke-width="2"/>
+<text x="924" y="933" font-size="13" fill="#000" text-anchor="end" font-weight="bold">BOOT0</text>
+<line x1="930" y1="160" x2="960" y2="160" stroke="#8b1a1a" stroke-width="2"/>
+<text x="924" y="165" font-size="13" fill="#000" text-anchor="end">NRST</text>
+<text x="966" y="165" font-size="12" fill="#888" text-anchor="start">(để trống)</text>
+<polygon points="150,90 175,78 175,102" fill="#f3e8fd" stroke="#8430ce" stroke-width="2"/><rect x="175" y="82" width="10" height="16" fill="#f3e8fd" stroke="#8430ce" stroke-width="2"/>
+<text x="110" y="80" font-size="13" fill="#8430ce" text-anchor="start" font-weight="bold">MIC (AUDIO)</text>
+<polyline points="185,90 640,90 640,160 670,160" fill="none" stroke="#8430ce" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="420" cy="90" r="11" fill="#fff" stroke="#8430ce" stroke-width="2.5"/>
+<text x="420" y="95" font-size="13" fill="#8430ce" text-anchor="middle" font-weight="bold">10</text>
+<rect x="60" y="188" width="140" height="66" fill="#d8d3b8" stroke="#8b1a1a" stroke-width="2"/>
+<text x="130" y="182" font-size="14" fill="#8b1a1a" text-anchor="middle" font-weight="bold">U2 – DHT11</text>
+<text x="195" y="205" font-size="12" fill="#000" text-anchor="end" font-weight="bold">GND</text>
+<line x1="200" y1="200" x2="230" y2="200" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="225" font-size="12" fill="#000" text-anchor="end" font-weight="bold">DATA</text>
+<line x1="200" y1="220" x2="230" y2="220" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="245" font-size="12" fill="#000" text-anchor="end" font-weight="bold">VDD</text>
+<line x1="200" y1="240" x2="230" y2="240" stroke="#8b1a1a" stroke-width="2"/>
+<polyline points="230,200 270,200" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="270" y="188" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="297.0" y="205" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="250" cy="190" r="11" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<text x="250" y="195" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">7</text>
+<polyline points="230,240 270,240" fill="none" stroke="#1e8e3e" stroke-width="3" stroke-linejoin="round"/>
+<rect x="270" y="228" width="62" height="24" rx="12" fill="#e6f7ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="301.0" y="245" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">↑ 3.3V</text>
+<circle cx="250" cy="252" r="11" fill="#fff" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="250" y="257" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">6</text>
+<polyline points="230,220 600,220 600,184 670,184" fill="none" stroke="#1e8e3e" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="520" cy="220" r="11" fill="#fff" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="520" y="225" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">5</text>
+<circle cx="400" cy="220" r="6" fill="#1e8e3e" stroke="#000" stroke-width="1"/>
+<polyline points="400,220 400,200" fill="none" stroke="#1e8e3e" stroke-width="3" stroke-linejoin="round"/>
+<rect x="392" y="140" width="16" height="60" fill="#fff" stroke="#1e8e3e" stroke-width="2"/>
+<text x="414" y="174.0" font-size="12" fill="#000" text-anchor="start" font-weight="bold">R1 10k</text>
+<polyline points="400,140 400,128" fill="none" stroke="#1e8e3e" stroke-width="3" stroke-linejoin="round"/>
+<rect x="380" y="104" width="62" height="24" rx="12" fill="#e6f7ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="411.0" y="121" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">↑ 3.3V</text>
+<circle cx="378" cy="170" r="11" fill="#fff" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="378" y="175" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">8</text>
+<rect x="60" y="268" width="140" height="100" fill="#d8d3b8" stroke="#8b1a1a" stroke-width="2"/>
+<text x="130" y="262" font-size="14" fill="#8b1a1a" text-anchor="middle" font-weight="bold">MMC1 (thẻ SD)</text>
+<text x="195" y="285" font-size="12" fill="#000" text-anchor="end" font-weight="bold">CLK</text>
+<line x1="200" y1="280" x2="230" y2="280" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="309" font-size="12" fill="#000" text-anchor="end" font-weight="bold">DO</text>
+<line x1="200" y1="304" x2="230" y2="304" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="333" font-size="12" fill="#000" text-anchor="end" font-weight="bold">DI</text>
+<line x1="200" y1="328" x2="230" y2="328" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="357" font-size="12" fill="#000" text-anchor="end" font-weight="bold">CS</text>
+<line x1="200" y1="352" x2="230" y2="352" stroke="#8b1a1a" stroke-width="2"/>
+<polyline points="230,280 670,280" fill="none" stroke="#d98a00" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="470" cy="280" r="11" fill="#fff" stroke="#d98a00" stroke-width="2.5"/>
+<text x="470" y="285" font-size="13" fill="#d98a00" text-anchor="middle" font-weight="bold">2</text>
+<polyline points="230,304 670,304" fill="none" stroke="#d98a00" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="470" cy="304" r="11" fill="#fff" stroke="#d98a00" stroke-width="2.5"/>
+<text x="470" y="309" font-size="13" fill="#d98a00" text-anchor="middle" font-weight="bold">3</text>
+<polyline points="230,328 670,328" fill="none" stroke="#d98a00" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="470" cy="328" r="11" fill="#fff" stroke="#d98a00" stroke-width="2.5"/>
+<text x="470" y="333" font-size="13" fill="#d98a00" text-anchor="middle" font-weight="bold">4</text>
+<polyline points="230,352 270,352" fill="none" stroke="#d98a00" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="270,341 322,341 332,352 322,363 270,363" fill="#fff8c5" stroke="#d98a00" stroke-width="2"/>
+<text x="298" y="357" font-size="13" fill="#d98a00" text-anchor="middle" font-weight="bold">PA4</text>
+<circle cx="355" cy="352" r="11" fill="#fff" stroke="#d98a00" stroke-width="2.5"/>
+<text x="355" y="357" font-size="13" fill="#d98a00" text-anchor="middle" font-weight="bold">1</text>
+<polyline points="670,256 610,256" fill="none" stroke="#d98a00" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="548,245 600,245 610,256 600,267 548,267" fill="#fff8c5" stroke="#d98a00" stroke-width="2"/>
+<text x="576" y="261" font-size="13" fill="#d98a00" text-anchor="middle" font-weight="bold">PA4</text>
+<text x="250" y="380" font-size="12" fill="#d98a00" text-anchor="start" font-weight="bold">CS nối bằng NHÃN tên PA4 (công cụ LBL)</text>
+<rect x="60" y="410" width="140" height="110" fill="#d8d3b8" stroke="#8b1a1a" stroke-width="2"/><rect x="72" y="424" width="70" height="70" fill="#111"/>
+<text x="130" y="404" font-size="13" fill="#8b1a1a" text-anchor="middle" font-weight="bold">VIRTUAL TERMINAL</text>
+<text x="195" y="429" font-size="12" fill="#000" text-anchor="end" font-weight="bold">RXD</text>
+<line x1="200" y1="424" x2="230" y2="424" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="453" font-size="12" fill="#000" text-anchor="end" font-weight="bold">TXD</text>
+<line x1="200" y1="448" x2="230" y2="448" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="477" font-size="12" fill="#000" text-anchor="end" font-weight="bold">RTS</text>
+<line x1="200" y1="472" x2="230" y2="472" stroke="#8b1a1a" stroke-width="2"/>
+<text x="195" y="501" font-size="12" fill="#000" text-anchor="end" font-weight="bold">CTS</text>
+<line x1="200" y1="496" x2="230" y2="496" stroke="#8b1a1a" stroke-width="2"/>
+<polyline points="230,424 580,424 580,376 670,376" fill="none" stroke="#1a56db" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="450" cy="424" r="11" fill="#fff" stroke="#1a56db" stroke-width="2.5"/>
+<text x="450" y="429" font-size="13" fill="#1a56db" text-anchor="middle" font-weight="bold">11</text>
+<polyline points="230,448 620,448 620,400 670,400" fill="none" stroke="#1a56db" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="450" cy="448" r="11" fill="#fff" stroke="#1a56db" stroke-width="2.5"/>
+<text x="450" y="453" font-size="13" fill="#1a56db" text-anchor="middle" font-weight="bold">12</text>
+<text x="240" y="477" font-size="12" fill="#888" text-anchor="start">RTS, CTS để trống</text>
+<text x="60" y="536" font-size="12" fill="#1a56db" text-anchor="start" font-weight="bold">Mẹo: chuột phải Terminal → Y-Mirror để RXD lên trên</text>
+<polyline points="670,712 600,712" fill="none" stroke="#c5221f" stroke-width="3" stroke-linejoin="round"/>
+<rect x="540" y="704" width="60" height="16" fill="#fff" stroke="#c5221f" stroke-width="2"/>
+<text x="570.0" y="699" font-size="12" fill="#000" text-anchor="middle" font-weight="bold">R2 1K</text>
+<polyline points="540,712 460,712" fill="none" stroke="#c5221f" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="635" cy="696" r="11" fill="#fff" stroke="#c5221f" stroke-width="2.5"/>
+<text x="635" y="701" font-size="13" fill="#c5221f" text-anchor="middle" font-weight="bold">13</text>
+<circle cx="460" cy="712" r="6" fill="#c5221f" stroke="#000" stroke-width="1"/>
+<circle cx="500" cy="696" r="11" fill="#fff" stroke="#c5221f" stroke-width="2.5"/>
+<text x="500" y="701" font-size="13" fill="#c5221f" text-anchor="middle" font-weight="bold">14</text>
+<polyline points="460,712 460,732" fill="none" stroke="#c5221f" stroke-width="3" stroke-linejoin="round"/>
+<line x1="445" y1="732" x2="475" y2="732" stroke="#000" stroke-width="3"/><line x1="445" y1="740" x2="475" y2="740" stroke="#000" stroke-width="3"/>
+<text x="482" y="742" font-size="12" fill="#000" text-anchor="start" font-weight="bold">C1 100nF</text>
+<polyline points="460,740 460,772" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="436" y="772" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="463.0" y="789" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="445" cy="760" r="11" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<text x="445" y="765" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">15</text>
+<polyline points="460,712 400,712" fill="none" stroke="#c5221f" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="430" cy="696" r="11" fill="#fff" stroke="#c5221f" stroke-width="2.5"/>
+<text x="430" y="701" font-size="13" fill="#c5221f" text-anchor="middle" font-weight="bold">16</text>
+<rect x="392" y="698" width="6" height="28" fill="#999" stroke="#000" stroke-width="2"/><rect x="402" y="698" width="6" height="28" fill="#fff" stroke="#000" stroke-width="2"/>
+<text x="400" y="690" font-size="12" fill="#000" text-anchor="middle" font-weight="bold">C2 10uF</text>
+<text x="386" y="740" font-size="11" fill="#000" text-anchor="start">(−)</text>
+<text x="402" y="740" font-size="11" fill="#000" text-anchor="start">(+)</text>
+<polyline points="392,712 320,712" fill="none" stroke="#c5221f" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="356" cy="696" r="11" fill="#fff" stroke="#c5221f" stroke-width="2.5"/>
+<text x="356" y="701" font-size="13" fill="#c5221f" text-anchor="middle" font-weight="bold">17</text>
+<rect x="300" y="702" width="12" height="20" fill="#fde7e7" stroke="#c5221f" stroke-width="2"/><polygon points="300,702 280,686 280,738 300,722" fill="#fde7e7" stroke="#c5221f" stroke-width="2"/>
+<text x="290" y="678" font-size="12" fill="#c5221f" text-anchor="middle" font-weight="bold">LS1 SPEAKER</text>
+<polyline points="312,718 330,718 330,762" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="306" y="762" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="333.0" y="779" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="345" cy="744" r="11" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<text x="345" y="749" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">18</text>
+<line x1="320" y1="712" x2="312" y2="712" stroke="#c5221f" stroke-width="3"/>
+<circle cx="520" cy="856" r="4" fill="#fff" stroke="#000" stroke-width="2"/><circle cx="560" cy="856" r="4" fill="#fff" stroke="#000" stroke-width="2"/>
+<line x1="520" y1="846" x2="560" y2="846" stroke="#000" stroke-width="2"/><line x1="540" y1="846" x2="540" y2="838" stroke="#000" stroke-width="2"/>
+<text x="540" y="834" font-size="12" fill="#b06000" text-anchor="middle" font-weight="bold">Nút REC</text>
+<polyline points="670,856 564,856" fill="none" stroke="#b06000" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="516,856 470,856" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="400" y="844" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="427.0" y="861" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="615" cy="842" r="11" fill="#fff" stroke="#b06000" stroke-width="2.5"/>
+<text x="615" y="847" font-size="13" fill="#b06000" text-anchor="middle" font-weight="bold">19</text>
+<circle cx="492" cy="842" r="11" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<text x="492" y="847" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">20</text>
+<circle cx="520" cy="920" r="4" fill="#fff" stroke="#000" stroke-width="2"/><circle cx="560" cy="920" r="4" fill="#fff" stroke="#000" stroke-width="2"/>
+<line x1="520" y1="910" x2="560" y2="910" stroke="#000" stroke-width="2"/><line x1="540" y1="910" x2="540" y2="902" stroke="#000" stroke-width="2"/>
+<text x="540" y="898" font-size="12" fill="#b06000" text-anchor="middle" font-weight="bold">Nút PLAY</text>
+<polyline points="670,880 640,880 640,920 564,920" fill="none" stroke="#b06000" stroke-width="3" stroke-linejoin="round"/>
+<polyline points="516,920 470,920" fill="none" stroke="#333" stroke-width="3" stroke-linejoin="round"/>
+<rect x="400" y="908" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="427.0" y="925" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="605" cy="906" r="11" fill="#fff" stroke="#b06000" stroke-width="2.5"/>
+<text x="605" y="911" font-size="13" fill="#b06000" text-anchor="middle" font-weight="bold">21</text>
+<circle cx="492" cy="906" r="11" fill="#fff" stroke="#333" stroke-width="2.5"/>
+<text x="492" y="911" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">22</text>
+<polyline points="960,520 1000,520" fill="none" stroke="#e91e63" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1000" y="512" width="60" height="16" fill="#fff" stroke="#e91e63" stroke-width="2"/>
+<text x="1030.0" y="507" font-size="12" fill="#000" text-anchor="middle" font-weight="bold">R3 330</text>
+<polyline points="1060,520 1090,520" fill="none" stroke="#e91e63" stroke-width="3" stroke-linejoin="round"/>
+<polygon points="1112,508 1112,532 1092,520" fill="#f44" stroke="#000" stroke-width="2"/><line x1="1092" y1="508" x2="1092" y2="532" stroke="#000" stroke-width="2.5"/>
+<text x="1102" y="486" font-size="12" fill="#e91e63" text-anchor="middle" font-weight="bold">D1 LED</text>
+<polyline points="1112,520 1150,520" fill="none" stroke="#e91e63" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1150" y="508" width="62" height="24" rx="12" fill="#e6f7ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="1181.0" y="525" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">↑ 3.3V</text>
+<circle cx="985" cy="504" r="11" fill="#fff" stroke="#e91e63" stroke-width="2.5"/>
+<text x="985" y="509" font-size="13" fill="#e91e63" text-anchor="middle" font-weight="bold">25</text>
+<circle cx="1078" cy="504" r="11" fill="#fff" stroke="#e91e63" stroke-width="2.5"/>
+<text x="1078" y="509" font-size="13" fill="#e91e63" text-anchor="middle" font-weight="bold">24</text>
+<circle cx="1135" cy="504" r="11" fill="#fff" stroke="#e91e63" stroke-width="2.5"/>
+<text x="1135" y="509" font-size="13" fill="#e91e63" text-anchor="middle" font-weight="bold">23</text>
+<text x="1000" y="548" font-size="11" fill="#888" text-anchor="start">(tùy chọn)</text>
+<polyline points="960,640 1000,640" fill="none" stroke="#555" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1000" y="628" width="62" height="24" rx="12" fill="#e6f7ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="1031.0" y="645" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">↑ 3.3V</text>
+<circle cx="982" cy="626" r="11" fill="#fff" stroke="#555" stroke-width="2.5"/>
+<text x="982" y="631" font-size="13" fill="#555" text-anchor="middle" font-weight="bold">26</text>
+<polyline points="960,664 1000,664" fill="none" stroke="#555" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1000" y="652" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="1027.0" y="669" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="982" cy="650" r="11" fill="#fff" stroke="#555" stroke-width="2.5"/>
+<text x="982" y="655" font-size="13" fill="#555" text-anchor="middle" font-weight="bold">28</text>
+<polyline points="960,712 1000,712" fill="none" stroke="#555" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1000" y="700" width="62" height="24" rx="12" fill="#e6f7ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="1031.0" y="717" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">↑ 3.3V</text>
+<circle cx="982" cy="698" r="11" fill="#fff" stroke="#555" stroke-width="2.5"/>
+<text x="982" y="703" font-size="13" fill="#555" text-anchor="middle" font-weight="bold">27</text>
+<polyline points="960,928 1000,928" fill="none" stroke="#555" stroke-width="3" stroke-linejoin="round"/>
+<rect x="1000" y="916" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="1027.0" y="933" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<circle cx="982" cy="914" r="11" fill="#fff" stroke="#555" stroke-width="2.5"/>
+<text x="982" y="919" font-size="13" fill="#555" text-anchor="middle" font-weight="bold">29</text>
+<rect x="1075" y="580" width="235" height="300" rx="10" fill="#fff" stroke="#0b4f9c" stroke-width="2"/>
+<text x="1192" y="606" font-size="16" fill="#0b4f9c" text-anchor="middle" font-weight="bold">CHÚ THÍCH</text>
+<line x1="1090" y1="628" x2="1125" y2="628" stroke="#d98a00" stroke-width="4"/>
+<text x="1133" y="632" font-size="13" fill="#000" text-anchor="start">1: Thẻ MMC (dây 1–4)</text>
+<line x1="1090" y1="652" x2="1125" y2="652" stroke="#1e8e3e" stroke-width="4"/>
+<text x="1133" y="656" font-size="13" fill="#000" text-anchor="start">2: DHT11 (dây 5–9)</text>
+<line x1="1090" y1="676" x2="1125" y2="676" stroke="#8430ce" stroke-width="4"/>
+<text x="1133" y="680" font-size="13" fill="#000" text-anchor="start">3: MIC (dây 10)</text>
+<line x1="1090" y1="700" x2="1125" y2="700" stroke="#1a56db" stroke-width="4"/>
+<text x="1133" y="704" font-size="13" fill="#000" text-anchor="start">4: Terminal (11–12)</text>
+<line x1="1090" y1="724" x2="1125" y2="724" stroke="#c5221f" stroke-width="4"/>
+<text x="1133" y="728" font-size="13" fill="#000" text-anchor="start">5: Loa (13–18)</text>
+<line x1="1090" y1="748" x2="1125" y2="748" stroke="#b06000" stroke-width="4"/>
+<text x="1133" y="752" font-size="13" fill="#000" text-anchor="start">6: Nút nhấn (19–22)</text>
+<line x1="1090" y1="772" x2="1125" y2="772" stroke="#e91e63" stroke-width="4"/>
+<text x="1133" y="776" font-size="13" fill="#000" text-anchor="start">7: LED (23–25)</text>
+<line x1="1090" y1="796" x2="1125" y2="796" stroke="#555" stroke-width="4"/>
+<text x="1133" y="800" font-size="13" fill="#000" text-anchor="start">8: Nguồn (26–29)</text>
+<circle cx="1105" cy="826" r="6" fill="#000" stroke="#000" stroke-width="1"/>
+<text x="1133" y="830" font-size="13" fill="#000" text-anchor="start">Chấm = nối CỐ Ý</text>
+<rect x="1087" y="844" width="62" height="24" rx="12" fill="#e6f7ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="1118.0" y="861" font-size="13" fill="#1e8e3e" text-anchor="middle" font-weight="bold">↑ 3.3V</text>
+<text x="1167" y="861" font-size="13" fill="#000" text-anchor="start">= POWER</text>
+<rect x="1087" y="872" width="54" height="24" rx="12" fill="#e8e8e8" stroke="#333" stroke-width="2"/>
+<text x="1114.0" y="889" font-size="13" fill="#333" text-anchor="middle" font-weight="bold">⊥ GND</text>
+<text x="1167" y="889" font-size="13" fill="#000" text-anchor="start">= GROUND</text>
+</svg>
