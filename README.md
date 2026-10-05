@@ -6,8 +6,16 @@ Bài tập lớn môn **Kỹ thuật vi xử lý**, Học viện Công nghệ B�
 |---|---|
 | [`Bai1_STM32_SD_DHT11_Audio/`](Bai1_STM32_SD_DHT11_Audio) | **Bài 1:** STM32F103C8T6 + thẻ SD + DHT11 + ghi/phát âm thanh WAV (mã nguồn C, file hex, mô phỏng Proteus) |
 | [`Bai2_ARM_Assembly/`](Bai2_ARM_Assembly) | **Bài 2:** hợp ngữ ARM: copy và đổi hoa/thường chuỗi "Hello World" (Keil) |
-| [`BaoCao/`](BaoCao) | Báo cáo Bài 1 (Word + PDF) |
+| [`BaoCao/`](BaoCao) | Báo cáo Bài 1 và Bài 2 (Word + PDF) |
 | [`LinhKien/`](LinhKien) | Danh sách linh kiện kèm ảnh |
+
+## 📄 Báo cáo
+| Bài | Xem trực tiếp | Tải Word |
+|---|---|---|
+| Bài 1 – STM32 + SD + DHT11 + âm thanh | [PDF](BaoCao/BaoCao_Bai1_KTVXL.pdf) | [DOCX](https://github.com/manhdungpxckpt-byte/BTL-Vi-X-L-/raw/main/BaoCao/BaoCao_Bai1_KTVXL.docx) |
+| Bài 2 – Hợp ngữ ARM | [PDF](BaoCao/BaoCao_Bai2_KTVXL.pdf) | [DOCX](https://github.com/manhdungpxckpt-byte/BTL-Vi-X-L-/raw/main/BaoCao/BaoCao_Bai2_KTVXL.docx) |
+
+> Báo cáo đang hoàn thiện (còn chờ chèn một số ảnh chụp kết quả).
 
 ## Bài 1 – Đề bài
 - **a)** STM32F103C8T6 + module SD + DHT11: cứ **5 giây** ghi nhiệt độ, độ ẩm vào thẻ (`DATA.CSV`), kiểm tra bằng đầu đọc thẻ USB.
@@ -26,6 +34,9 @@ Bài tập lớn môn **Kỹ thuật vi xử lý**, Học viện Công nghệ B�
 | PC13 | LED trạng thái |
 
 ![Sơ đồ khối](Bai1_STM32_SD_DHT11_Audio/hinh_anh/sodokhoi.png)
+
+### Sơ đồ mạch Proteus
+![Sơ đồ mạch](Bai1_STM32_SD_DHT11_Audio/hinh_anh/so_do_mach_proteus.png)
 
 ### Kết quả mô phỏng Proteus
 ![Kết quả](Bai1_STM32_SD_DHT11_Audio/hinh_anh/ket_qua_mo_phong.png)

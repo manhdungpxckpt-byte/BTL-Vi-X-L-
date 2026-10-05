@@ -12,6 +12,8 @@
 2. **Copy:** đọc từng byte ở `0x77FFFFFF` (`LDRB … [R0], #1`) và ghi sang `0x88FFFFFF` (`STRB … [R1], #1`), dừng khi gặp `'\0'`.
 3. **Đổi hoa/thường:** với mỗi byte ở `0x88FFFFFF`, nếu là chữ cái (`'A'..'Z'` hoặc `'a'..'z'`) thì đảo bit 5 (`EOR R2, R2, #0x20`), rồi ghi vào `0x99FFFFFF`.
 
+![Lưu đồ](luudo_bai2.png)
+
 ## Chạy trên Keil µVision 5 (ARM Compiler 5)
 > Lưu project ở đường dẫn **không dấu, không khoảng trắng**, ví dụ `D:\KTVXL\Bai2`.
 1. *Project → New µVision Project…* → chọn chip **STM32F103C8**.
