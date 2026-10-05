@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.map
+*.bin
+Objects/
+Listings/
+*.uvguix.*
